@@ -10,4 +10,4 @@
  <a href="#autor">lógica de programação</a>
 </p>
 ✅ Demonstração da aplicação
-<a href="#html"> https://louisejaqdev.github.io/codificador_desafio1_Alura_Oracle_t4/ </a> 
+https://louisejaqdev.github.io/codificador_desafio1_Alura_Oracle_t4/  
